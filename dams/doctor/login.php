@@ -56,7 +56,7 @@ echo "<script>alert('Invalid Details');</script>";
 			
 		</div><!-- logo -->
 		<div class="simple-page-form animated flipInY" id="login-form">
-	<h4 class="form-title m-b-xl text-center">Sign In With Your vAMS Account</h4>
+	<h4 class="form-title m-b-xl text-center">Sign In With Your DAMS Account</h4>
 	<form method="post" name="login">
 		<div class="form-group">
 			<input type="text" class="form-control" placeholder="Enter Registered Email ID" required="true" name="email">
